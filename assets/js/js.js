@@ -31,18 +31,6 @@ function citySearch(searchId) {
     })
 }
 
-//fetches UV
-function getUV(searchId) {
-    let searchUV = 'https://api.openweathermap.org/data/2.5/uvi/forecast?zip' + searchId + '&appid=fe4afaa3b86128f2033985b903a190ff&cnt=1'
-    $.ajax({
-        url: searchUV,
-        method: "GET"
-    }).then(function (response) {
-        console.log(response);
-      //  $('.uv').html('UV: ' + (response.))
-    })
-}
-
 
 //create another response for 5-day forecast 
 function fiveDay(searchId) {
