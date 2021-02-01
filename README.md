@@ -10,7 +10,7 @@ HTML, Bootstrap, Javascript
 https://miyun94.github.io/weather-reporter/
 
 ![Screenshot of Webpage]
-(assets\screenshot.png)
+(https://github.com/miyun94/weather-reporter/blob/main/assets/screenshot.png?raw=true)
 
 ## Contribution 
 Made by Ellen
