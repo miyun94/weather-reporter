@@ -7,7 +7,8 @@ A weather app that pulls in information for the current day, plus consecutive da
 HTML, Bootstrap, Javascript
 
 ## Website
-![Screenshot of Webpage](screenshot.png)
+https://miyun94.github.io/weather-reporter/
+![Screenshot of Webpage](./asssets/screenshot.png)
 
 ## Contribution 
 Made by Ellen
