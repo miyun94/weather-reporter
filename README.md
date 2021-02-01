@@ -9,8 +9,7 @@ HTML, Bootstrap, Javascript
 ## Website
 https://miyun94.github.io/weather-reporter/
 
-![Screenshot of Webpage]
-(https://github.com/miyun94/weather-reporter/blob/main/assets/screenshot.png?raw=true)
+![image of webpage](https://user-images.githubusercontent.com/74436613/106418333-ecc95480-640a-11eb-885d-534722caf859.png)
 
 ## Contribution 
 Made by Ellen
